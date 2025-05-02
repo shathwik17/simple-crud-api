@@ -18,11 +18,11 @@ Tech Stack:
 
 API Endpoints:
 --------------
-GET     /api/products         -> Get all products
-GET     /api/products/:id     -> Get a single product by ID
-POST    /api/products         -> Create a new product
-PUT     /api/products/:id     -> Update a product by ID
-DELETE  /api/products/:id     -> Delete a product by ID
+GET     /api/products         -> Get all products\n
+GET     /api/products/:id     -> Get a single product by ID\n
+POST    /api/products         -> Create a new product\n
+PUT     /api/products/:id     -> Update a product by ID\n
+DELETE  /api/products/:id     -> Delete a product by ID\n
 
 Setup Instructions:
 -------------------
